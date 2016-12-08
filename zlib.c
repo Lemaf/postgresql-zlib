@@ -2,8 +2,7 @@
 #include <fmgr.h>
 #include <utils/bytea.h>
 #include <utils/datum.h>
-
-#include "zlib.h"
+#include <zlib.h>
 
 #ifdef PG_MODULE_MAGIC
 PG_MODULE_MAGIC;
