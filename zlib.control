@@ -1,4 +1,4 @@
-comment = 'zlib decompress function'
+comment = 'zlib compress, decompress functions'
 default_version = '1.0'
 module_pathname = '$libdir/zlib'
 relocatable = true
